@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "InfoViz | Ayush Kumar";
+            document.title = "InfoViz | Akash PS";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["CSE F1", "RA2011003010375"],
+    strings: ["CSE AIML P2", "RA2011026010003", "INFORMATION VISUALIZATION"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
