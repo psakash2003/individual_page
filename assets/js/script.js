@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["CSE P2", "RA2011026010003"],
+    strings: ["CSE AIML P2", "RA2011026010003"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
