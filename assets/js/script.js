@@ -238,7 +238,6 @@ srtop.reveal('.skills .container .bar', { delay: 400 });
 
 /* SCROLL EDUCATION */
 srtop.reveal('.education .box', { interval: 200 });
-srtop.reveal('.education .container .bar', { delay: 400 });
 
 /* SCROLL PROJECTS */
 srtop.reveal('.work .box', { interval: 200 });
