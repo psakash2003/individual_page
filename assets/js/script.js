@@ -241,7 +241,6 @@ srtop.reveal('.education .box', { interval: 200 });
 srtop.reveal('.education .container .bar', { delay: 400 });
 
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
 srtop.reveal('.work .container', { interval: 200 });
 srtop.reveal('.work .container .bar', { delay: 400 });
 
